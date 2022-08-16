@@ -6,7 +6,7 @@ Objetivo:<br/>
     Gerar um .json e um .csv com as informações formatadas<br/>
 Resultado:<br/>
     Arquivos disponíveis em /imbd/<br/>
-    imbd.json e imdb.csv<br/>
+    imdb.json e imdb.csv<br/>
 <br/>
 Obrigado! :)
 
